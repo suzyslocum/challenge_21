@@ -24,6 +24,13 @@
 
 ![KCCD_interaction](/Images/KCCD_interaction.mov)
 
+![KaseiCoin_transact](/Images/KaseiCoin_transact.png)
+
+![KaseiCoin_transact_2](/Images/KaseiCoin_transact_2.png)
+
+![KaseiCoin_transfer](/Images/KaseiCoin_transfer.png)
+
+![MetaMask_transact](/Images/MetaMask_transact.png)
 
 More images can be viewed in the "Images" folder
 
