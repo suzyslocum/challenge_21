@@ -1,7 +1,7 @@
-# Module 21 Challenge Assignment 
----
+# Develop a Monetary system for the New Mars Colony
 
-## Develop a Monetary system for the New Mars Colony
+*Module 21 Challenge Assignment*
+
 ---
 
 ## Overview 
